@@ -1,0 +1,15 @@
+p
+{
+	font-size: 40pt;
+	color: rgb(125,0,0);
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+p:hover
+{
+	font-size: 70pt;
+	color: rgb(100,100,0);
+	font-family: Verdana;
+	font-weight: bold;
+}
