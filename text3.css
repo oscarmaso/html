@@ -4,3 +4,9 @@ p
 	color: blue;
 	
 }
+img
+{
+	border-style: solid;
+	border-width: 10px;
+	background-color: red; 
+}
